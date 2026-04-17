@@ -20,7 +20,7 @@
 ## Установка
 
 1. Склонируйте репозиторий:
-git clone https://github.com/zyphralex/VIRUSTOTAL.PY.git
+git clone https://codeberg.org/moyunni/VIRUSTOTAL.PY.git
 
 cd VIRUSTOTAL.PY
 
