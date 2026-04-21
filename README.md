@@ -2,6 +2,14 @@
 
 Красивый и простой Python-скрипт для проверки файлов и папок на вирусы с использованием API VirusTotal. Подходит для запуска на Android (Termux, PyDroid3) с удобным цветным выводом статуса и подробными отчетами.
 
+# Repository Mirrors:
+
+[GitHub](https://github.com/moyunni/chistore),
+[GitVerse](https://gitverse.ru/chinchilla/chistore) and
+[Codeberg](https://codeberg.org/moyunni/chistore)
+
+**Updates are released faster on codeberg. 10 minutes after writing the repository to codeberg, the changes will go to the mirrors.**
+
 ---
 
 ## Особенности
