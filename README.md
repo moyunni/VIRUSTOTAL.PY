@@ -4,9 +4,9 @@
 
 # Repository Mirrors:
 
-[GitHub](https://github.com/moyunni/chistore),
-[GitVerse](https://gitverse.ru/chinchilla/chistore) and
-[Codeberg](https://codeberg.org/moyunni/chistore)
+[GitHub](https://github.com/moyunni/VIRUSTOTAL.PY),
+[GitVerse](https://gitverse.ru/chinchilla/VIRUSTOTAL.PY) and
+[Codeberg](https://codeberg.org/moyunni/VIRUSTOTAL.PY)
 
 **Updates are released faster on codeberg. 10 minutes after writing the repository to codeberg, the changes will go to the mirrors.**
 
